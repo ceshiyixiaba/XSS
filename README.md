@@ -1,7 +1,10 @@
 # XSS
 
 #### 介绍
+
 "<script>alert("HelloWord")</script>"
+
+<script>alert("HelloWord")</script>
 
 #### 软件架构
 软件架构说明
