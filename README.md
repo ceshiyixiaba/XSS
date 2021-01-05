@@ -6,4 +6,4 @@ fasdfasdfasdf
 
 <script>alert("HelloWord")</script>
 
-![输入图片说明](https://i0.hdslb.com/bfs/article/423cae6c879fb7d9e8f46c1187caf04417aacb07.png@856w_548h.webp)
+![输入图片说明](https://i0.hdslb.com/bfs/article/423cae6c879fb7d9e8f46c1187caf04417aacb07.png@856w_548h.webp)![输入图片说明](https://images.gitee.com/uploads/images/2021/0105/094814_c8d26927_340906.png "xss svg.png")
